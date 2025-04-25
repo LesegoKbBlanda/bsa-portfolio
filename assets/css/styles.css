@@ -1,0 +1,32 @@
+:root {
+    --brand-primary: #6f42c1;
+    --brand-accent: #e83e8c;
+  }
+  body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .btn-glow {
+    background: var(--brand-accent);
+    color: #fff;
+    border-radius: 50px;
+    box-shadow: 0 0 8px rgba(232,62,140,0.7);
+    transition: box-shadow 0.3s;
+  }
+  .btn-glow:hover {
+    box-shadow: 0 0 16px rgba(232,62,140,1);
+  }
+  .bg-primary {
+    background-color: var(--brand-primary) !important;
+  }
+  .text-white {
+    color: #fff !important;
+  }
+  /* Chatbot container positioning */
+  #chatToggle {
+    position: fixed; bottom: 20px; right: 20px; z-index: 1000;
+  }
+  .botui-container {
+    position: fixed; bottom: 80px; right: 20px; width: 300px; display: none;
+    z-index: 1000;
+  }
+  

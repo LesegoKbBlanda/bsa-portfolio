@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "ems-support",
+    "title": "IEC EMS Support",
+    "thumbnail": "assets/img/ems.png",
+    "category": "Government"
+  },
+  {
+    "slug": "smmereg",
+    "title": "Chema Chema SMME Registration",
+    "thumbnail": "assets/img/chema.png",
+    "category": "Private Sector"
+  }
+  // …more…
+]
