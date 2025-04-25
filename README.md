@@ -6,7 +6,7 @@ A dynamic, responsive portfolio website showcasing Lesego’s projects, skills, 
 
 ## 🔗 Live Demo
 
-(https://LesegoKbBlanda.github.io/bsa-portfolio/)
+https://LesegoKbBlanda.github.io/bsa-portfolio/
 
 ---
 
